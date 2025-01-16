@@ -1,4 +1,8 @@
-## Hi there 👋
+## Sara's Readme
+Hi everyone!
+My name is Sara and I am a master's student at Tulane University. 
+I am a big reader, and enjoy reading about a multitude of subjects, most recently about political and economic development. 
+A fun fact about me is I rode a camel for the first time in November! 
 
 <!--
 **scavallone13/scavallone13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
